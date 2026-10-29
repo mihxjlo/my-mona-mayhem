@@ -130,7 +130,7 @@ Si quieres explorar más funcionalidades de Copilot CLI después del taller prin
 - Usa `/session` y `/session plan` para inspeccionar cómo el CLI está rastreando tu trabajo actual.
 <!-- track:cli:end -->
 
-## �� ¡Felicitaciones!
+## 🎊 ¡Felicidades!
 
 ¡Has completado el taller **Mona Mayhem: GitHub Battle**! Esto es lo que lograste:
 
@@ -147,7 +147,7 @@ Si quieres explorar más funcionalidades de Copilot CLI después del taller prin
 
 | Habilidad | Lo Que Practicaste |
 |-----------|-------------------|
-| **Context Engineering** | Darle a Copilot los archivos, instrucciones y restricciones correctas |
+| **Ingeniería de contexto** | Dar a Copilot los archivos, las instrucciones y las restricciones adecuadas |
 | **Planificación** | Generar y refinar planes de implementación antes de programar |
 | **Codificación Agéntica** | Delegar trabajo en múltiples archivos y múltiples pasos a Copilot |
 | **Iteración de Diseño** | Comenzar desde una dirección visual y refinar hacia un resultado pulido |
